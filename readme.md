@@ -31,8 +31,6 @@
 - rate_limited
 - property
 
-# useful writings
-
 
 # useful tutorials
 python101: https://python101.pythonlibrary.org/index.html
