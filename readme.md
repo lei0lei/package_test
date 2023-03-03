@@ -12,6 +12,7 @@
 - atexit
 - ratelimit
 - pants
+- cookiecutter
 # decorator
 - abc
 - lru_cache
