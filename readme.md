@@ -34,6 +34,9 @@
 
 # useful tutorials
 python101: https://python101.pythonlibrary.org/index.html
+
 https://github.com/lord63/awesome-python-decorator
+
 https://wiki.python.org/moin/PythonDecorators
+
 https://wiki.python.org/moin/PythonDecoratorLibrary
